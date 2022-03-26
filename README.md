@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/) || <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="GraphQL" width="19" height="19"/> GraphQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit553-ai&show-icons=true&theme=radical&langs_count=15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit553-ai&show-icons=true&theme=radical&langs_count=15&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit553-ai&count_private=true&show_icons=true&theme=radical)
 
 <!--
